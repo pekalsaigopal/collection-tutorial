@@ -1,0 +1,9 @@
+Interable<E>
+    Collection<E>
+        List<E>
+            ArrayList<E>
+
+Insertion Order is preserved
+Access/Remove elements using index
+Duplicate elements allowed
+
